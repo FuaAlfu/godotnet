@@ -1,0 +1,16 @@
+D:\ProjectsToBuildUp\C#-dev\godotnet\001-types\004-required\obj\Debug\net5.0\004-required.csproj.AssemblyReference.cache
+D:\ProjectsToBuildUp\C#-dev\godotnet\001-types\004-required\obj\Debug\net5.0\004-required.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectsToBuildUp\C#-dev\godotnet\001-types\004-required\obj\Debug\net5.0\004-required.AssemblyInfoInputs.cache
+D:\ProjectsToBuildUp\C#-dev\godotnet\001-types\004-required\obj\Debug\net5.0\004-required.AssemblyInfo.cs
+D:\ProjectsToBuildUp\C#-dev\godotnet\001-types\004-required\obj\Debug\net5.0\004-required.csproj.CoreCompileInputs.cache
+D:\ProjectsToBuildUp\C#-dev\godotnet\001-types\004-required\bin\Debug\net5.0\004-required.exe
+D:\ProjectsToBuildUp\C#-dev\godotnet\001-types\004-required\bin\Debug\net5.0\004-required.deps.json
+D:\ProjectsToBuildUp\C#-dev\godotnet\001-types\004-required\bin\Debug\net5.0\004-required.runtimeconfig.json
+D:\ProjectsToBuildUp\C#-dev\godotnet\001-types\004-required\bin\Debug\net5.0\004-required.runtimeconfig.dev.json
+D:\ProjectsToBuildUp\C#-dev\godotnet\001-types\004-required\bin\Debug\net5.0\004-required.dll
+D:\ProjectsToBuildUp\C#-dev\godotnet\001-types\004-required\bin\Debug\net5.0\ref\004-required.dll
+D:\ProjectsToBuildUp\C#-dev\godotnet\001-types\004-required\bin\Debug\net5.0\004-required.pdb
+D:\ProjectsToBuildUp\C#-dev\godotnet\001-types\004-required\obj\Debug\net5.0\004-required.dll
+D:\ProjectsToBuildUp\C#-dev\godotnet\001-types\004-required\obj\Debug\net5.0\ref\004-required.dll
+D:\ProjectsToBuildUp\C#-dev\godotnet\001-types\004-required\obj\Debug\net5.0\004-required.pdb
+D:\ProjectsToBuildUp\C#-dev\godotnet\001-types\004-required\obj\Debug\net5.0\004-required.genruntimeconfig.cache
